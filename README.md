@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
