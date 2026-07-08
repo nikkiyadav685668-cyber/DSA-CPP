@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0009-palindrome-number) |
 | [0223-rectangle-area](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0223-rectangle-area) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
