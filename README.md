@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
+| [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
