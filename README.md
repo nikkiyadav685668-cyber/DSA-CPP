@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
