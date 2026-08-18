@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
