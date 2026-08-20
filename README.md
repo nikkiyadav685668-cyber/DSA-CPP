@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 ## Recursion
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0178-rank-scores) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
