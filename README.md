@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
+| [3765-complete-prime-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3765-complete-prime-number) |
 ## Array
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
