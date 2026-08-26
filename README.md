@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3765-complete-prime-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
