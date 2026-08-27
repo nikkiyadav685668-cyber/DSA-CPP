@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -162,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0037-sudoku-solver) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
