@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Memoization
