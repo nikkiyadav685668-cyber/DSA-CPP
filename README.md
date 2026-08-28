@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0039-combination-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
