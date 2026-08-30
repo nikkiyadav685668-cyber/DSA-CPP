@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
