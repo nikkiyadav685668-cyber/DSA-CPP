@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
+| [3798-largest-even-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3798-largest-even-number) |
 ## Recursion
 |  |
 | ------- |
