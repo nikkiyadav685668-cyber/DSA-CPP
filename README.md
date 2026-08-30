@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 ## Recursion
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
 ## Binary Search
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 ## Counting
 |  |
