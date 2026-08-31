@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3798-largest-even-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3798-largest-even-number) |
 ## Recursion
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
