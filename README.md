@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
