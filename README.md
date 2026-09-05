@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
