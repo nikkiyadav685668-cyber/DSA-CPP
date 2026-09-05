@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Memoization
