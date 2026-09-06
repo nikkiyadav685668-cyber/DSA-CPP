@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
+| [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
