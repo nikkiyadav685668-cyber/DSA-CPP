@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
