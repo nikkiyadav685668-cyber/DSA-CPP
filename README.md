@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 ## Counting
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
