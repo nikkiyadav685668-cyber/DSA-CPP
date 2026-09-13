@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Dancing Links
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2679-sum-in-a-matrix) |
 ## Union-Find
