@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
