@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
+| [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
 ## Binary Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
