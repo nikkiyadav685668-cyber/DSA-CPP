@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -335,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
