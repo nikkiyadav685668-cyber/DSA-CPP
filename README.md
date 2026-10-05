@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
 | [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
