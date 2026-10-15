@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
