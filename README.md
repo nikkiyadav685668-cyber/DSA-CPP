@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1796-second-largest-digit-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
