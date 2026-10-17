@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0233-number-of-digit-one) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0670-maximum-swap) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1486-xor-operation-in-an-array) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/0561-array-partition) |
