@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/1757-recyclable-and-low-fat-products) |
 | [3436-find-valid-emails](https://github.com/nikkiyadav685668-cyber/DSA-CPP/tree/master/3436-find-valid-emails) |
 ## Stack
